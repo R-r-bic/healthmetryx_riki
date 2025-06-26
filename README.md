@@ -9,3 +9,9 @@ U.S._State_Life_Expectancy_by_Sex__2021 のコピー.xlsx
 https://www.cdc.gov/nchs/hus/topics/hiv.htm
 HIV.xlsx
 IDNotif.xlsx
+
+
+
+https://www.cdc.gov/nchs/hus/topics/vaccination.htm#explore-data
+VaxCh.xlsx
+VaxTn.xlsx
