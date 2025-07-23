@@ -1,3 +1,18 @@
+##  Project Overview
+This repository contains resources and deliverables for the **Data Science Internship** at Healthmetryx. The primary focus is on developing data analysis tools and compiling structured datasets for environmental health modeling, including:  
+- **Data Variance Calculator** (for synthetic data modeling)  
+- **Exposure Zone Model** (chemical inhalant thresholds)  
+- **Time-series analytical tools** for regional exposure effects.  
+
+
+
+
+
+
+
+
+
+
 https://www.cdc.gov/nchs/data-visualization/birth-to-death-ratios/natality-mortality-trends.htm
 Birth to Death Ratio, by State.csv
 
