@@ -44,3 +44,11 @@ American_Rescue_Plan__ARP__Rural_Payments_20250723 のコピー.xlsx
 
 COVID-19_Vaccine_Distribution_Allocations_by_Jurisdiction_-_Janssen_20250723 のコピー
 https://data.cdc.gov/Vaccinations/COVID-19-Vaccine-Distribution-Allocations-by-Juris/w9zu-fywh/about_data
+
+
+https://data.cdc.gov/Disability-Health/DHDS-Prevalence-of-Disability-Status-and-Types/s2qv-b27b/data_preview
+DHDS_-_Prevalence_of_Disability_Status_and_Types_20250723 のコピー.xlsx
+
+
+https://data.cdc.gov/Motor-Vehicle/Impaired-Driving-Death-Rate-by-Age-and-Sex-2012-20/ebbj-sh54/about_data
+Impaired_Driving_Death_Rate__by_Age_and_Sex__2012___2014__All_States_20250723 のコピー.xlsx
