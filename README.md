@@ -4,7 +4,8 @@ This repository contains resources and deliverables for the **Data Science Inter
 - **Exposure Zone Model** (chemical inhalant thresholds)  
 - **Time-series analytical tools** for regional exposure effects.  
 
-
+Here is the google drive
+https://drive.google.com/drive/folders/14wxGbRcVeWb9zU69DoNE4LJ4LTYmAdmk?usp=share_link
 
 
 
