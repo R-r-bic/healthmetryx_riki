@@ -34,3 +34,13 @@ VaxTn.xlsx
 
 https://data.cdc.gov/National-Center-for-Health-Statistics/DEV-DQS-Drug-overdose-death-rates-by-drug-type-sex/rdjz-vn2n/data_preview
 DEV_DQS_Drug_overdose_death_rates__by_drug_type__sex__age__race__and_Hispanic_origin__United_States_from_CDC_WONDER_20250626 のコピー.xlsx
+
+
+
+https://data.cdc.gov/Administrative/American-Rescue-Plan-ARP-Rural-Payments/8v6a-z6zq/about_data
+American_Rescue_Plan__ARP__Rural_Payments_20250723 のコピー.xlsx
+
+
+
+COVID-19_Vaccine_Distribution_Allocations_by_Jurisdiction_-_Janssen_20250723 のコピー
+https://data.cdc.gov/Vaccinations/COVID-19-Vaccine-Distribution-Allocations-by-Juris/w9zu-fywh/about_data
